@@ -1,6 +1,6 @@
-Occupational pesticide exposure is linked to the prevalence of Luminal B breast cancer and poor prognosis features in Brazilian rural women.
+__Occupational pesticide exposure is linked to the prevalence of Luminal B breast cancer and poor prognosis features in Brazilian rural women.__
 
-Abstract:
+__Abstract:__
 Despite evidence concerning the negative impact of pesticides on public health, Brazil is among the top three global consumers. The impact of pesticide exposure on female rural workers has been neglected, and the incidence of pesticide-induced diseases such as breast cancer is growing. In this context, this study analyzed the impact of occupational/household pesticide exposure on the clinicopathological profile of breast cancer in rural women. A total of 386 women were included in the study (208 exposed and 141 unexposed to pesticides); their clinicopathological data were collected from medical records and analyzed. Exposed patients had a prevalence of Luminal B subtype (32.83%), while unexposed patients had a prevalence of Luminal A molecular subtype (37.78%). Exposed patients also had higher disease recurrence (10.19%), chemoresistance (21.26%), and death occurrence (7.21%) than unexposed patients. Luminal B breast cancer patients exposed to pesticides were also more likely to have distant metastases, lymph node invasion and angiolymphatic emboli compared to Luminal B breast cancer unexposed patients. These findings indicate that pesticide exposure favors the occurrence of more aggressive breast cancer in rural women through occupational exposure.
 
-Keywords: pesticides; breast cancer; luminal B subtype; chemoresistance; recurrence.
+__Keywords:__ pesticides; breast cancer; luminal B subtype; chemoresistance; recurrence.
